@@ -1,6 +1,6 @@
-### Hi there 👋
+### Career
 
-#### SOCAR web frontend developer
+SOCAR web frontend developer (2020.10 ~ )
 
 
 ### Skills

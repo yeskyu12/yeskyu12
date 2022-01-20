@@ -19,6 +19,10 @@ SOCAR web frontend developer (2020.10 ~ )
 <div>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 </div>
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Buddy-1A86FD?style=flat-square&logo=Buddy&logoColor=white"/>
+</div>
 
 <!--
 <div align=center>

@@ -1,6 +1,9 @@
 ### Career
 
-SOCAR web frontend developer (2020.10 ~ )
+<div>
+  <strong>SOCAR</strong>
+  <p>Web Frontend Developer (2020.10 ~ )</p>
+</div>
 
 
 ### Skills

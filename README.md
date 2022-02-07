@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=Lee%20Eun%20Kyu&desc=Web%20Frontend%20Developer&animation=fadeIn&descSize=34&fontAlignY=30&descAlignY=55" width="100%" />
+
 ## Career
 
 <div>

@@ -3,14 +3,7 @@
 ## Career
 
 <div>
-  <span>2020.10 ~ &nbsp;</span>
-  <span>
-    <strong>SOCAR</strong>
-  </span>
-  <p>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <span>Web Frontend Developer</span>
-  </p>
+  <span>2020.10 ~ <strong>SOCAR</strong></span>
 </div>
 
 

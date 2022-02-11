@@ -29,6 +29,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 </div>
 
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeskyu12&langs_count=8) -->
+
 <!--
 <div align=center>
 

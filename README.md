@@ -30,8 +30,6 @@
 </div>
 
 
-## Contact
-
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeskyu12&langs_count=8) -->
 
 <!--

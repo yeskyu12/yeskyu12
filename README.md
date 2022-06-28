@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 <div>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Buddy-1A86FD?style=flat&logo=Buddy&logoColor=white"/>
 </div>

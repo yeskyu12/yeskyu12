@@ -35,14 +35,3 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 </div>
 </div>
-
-
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeskyu12&langs_count=8) -->
-
-<!--
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeskyu12)](https://hits.seeyoufarm.com) 
-
-</div>
--->

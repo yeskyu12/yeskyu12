@@ -2,7 +2,7 @@
 
 ## Career
 
-2020.10 ~ <strong>SOCAR</strong>
+2020.10 ~ **SOCAR**
 
 
 ## Skills

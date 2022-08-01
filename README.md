@@ -32,4 +32,3 @@
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 </div>
-</div>
